@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there, I'm Nu1l-ptr! 👋
+
+### 🎓 Computer Science Student 
+
+I'm a passionate learner exploring the world of software development, algorithms, and open source. As a new CS student, I'm documenting my journey and building cool projects along the way!
+
+---
+
+### 🚀 About Me
+
+- 🌱 I’m currently learning **Data Structures & Algorithms, Python, C++**
+- 👯 I’m looking to collaborate on **beginner-friendly open source projects or Hackathons**
+- ⚡ Fun fact: **I run on coffee ☕ and debug with print statements!**
+
+---
+
+### 🛠️ Languages and Tools
+
+Here are the technologies I'm currently using or learning:
+
+<p align="left"> 
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <!-- C++ -->
+  <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40"/> 
+  </a>
+</p>
+
+### 📫 Connect with me
+- 📧 Email: [Nu1l_ptr@outlook.com]
 
 <!--
-**Nu1l-ptr/Nu1l-ptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Fun footer/credits**
 -->
+<p align="center">
+  <i>Let's code something amazing together!</i> 💻
+</p>
